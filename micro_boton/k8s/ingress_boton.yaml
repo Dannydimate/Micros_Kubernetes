@@ -3,6 +3,7 @@ kind: Ingress
 metadata:
   name: boton-ingress
   namespace: micros
+  #prueba
 spec:
   tls:
   - hosts:
